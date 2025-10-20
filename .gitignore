@@ -1,0 +1,16 @@
+# ==================== COMPILED CLASS FILES ====================
+*.class
+
+# ==================== PACKAGE FILES ====================
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# ==================== LOG FILES ====================
+*.log
+logs/
+*.log.*
